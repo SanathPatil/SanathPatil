@@ -1,4 +1,4 @@
-- 👋 Hi there, thanks for stopping by I’m @SanathPatil
+- 👋 Hi there, thanks for stopping by, I’m @SanathPatil
 - 👀 I’m interested in Data analysis, pre-processing, machine learning & deep learning.
 - 🌱 I’m currently pursuing a Master's degree in Business Analytics from The University of Texas at Dallas.
 - 💞️ I’m looking to collaborate on projects which involves solving complex problems using data.
